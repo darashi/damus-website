@@ -20,19 +20,19 @@
   "benefits.benefit1.description": [
     {
       "type": 0,
-      "value": "オープンなインターネットプロトコルに基づいて構築されているため、あなたを禁止または検閲するプラットフォームは存在しません。あなたのデータと発言はあなたがコントロールしています。"
+      "value": "オープンなインターネットプロトコルに基づいて構築されているので、検閲したり排除するようなプラットフォームが存在しません。じぶんのデータと発言をコントロールできます。"
     }
   ],
   "benefits.benefit1.name": [
     {
       "type": 0,
-      "value": "あなたがコントロールしています"
+      "value": "じぶんでコントロール"
     }
   ],
   "benefits.benefit2.description": [
     {
       "type": 0,
-      "value": "アカウントの作成には電話番号、メール、名前は必要ありません。すぐに始めて、高度な暗号化のおかげで本当にあなたのアカウントを所有することができます。"
+      "value": "アカウントの作成には電話番号、メール、名前は必要ありません。すぐにはじめられます。高度な暗号技術のおかげで、自分のアカウントを本当の意味で所有できるのです。"
     }
   ],
   "benefits.benefit2.name": [
@@ -44,7 +44,7 @@
   "benefits.benefit3.description": [
     {
       "type": 0,
-      "value": "伝統的なソーシャルメディアは、あなたに広告を売るためにあなたを中毒にしようとしますが、それは社会を毒することです。しかし、Damusはそうはしません。その結果？より健康的なコミュニティが生まれます。"
+      "value": "伝統的なソーシャルメディアは、広告を売るためにユーザを熱狂させたがります。それは社会に悪い影響を与えます。Damusは違います。結果として、より健康的なコミュニティが形成されます。"
     }
   ],
   "benefits.benefit3.name": [
@@ -56,7 +56,7 @@
   "benefits.benefit4.description": [
     {
       "type": 0,
-      "value": "友達にチップを送ったり、チップを獲得したり、クリエイターをサポートしたり、ビットコイン＆ライトニングという自由でオープンなインターネットマネーでsatsを積み上げることができます。"
+      "value": "友だちに投げ銭したり、受け取ったり、クリエイターを支援したり。ビットコイン＆ライトニングという自由でオープンなインターネットマネーで、少額からsatsを貯めることもできます。"
     }
   ],
   "benefits.benefit4.name": [
@@ -68,43 +68,43 @@
   "benefits.description": [
     {
       "type": 0,
-      "value": "DamusはNostrという分散型でオープンなソーシャルネットワークプロトコルに基づいて構築されています。広告、有害なアルゴリズム、検閲なしで、Damusは真に自由で健康的な社会が必要とする、そして当然のことながら得るべきソーシャルネットワークへのアクセスを提供します。"
+      "value": "Damusは、Nostrという非中央集権的でオープンなソーシャルネットワークプロトコルの上に実装されています。そこには、広告も、中毒性のあるアルゴリズムも、検閲もありません。自由で健全な社会が必要とする——そしてそのような社会にふさわしい、ソーシャルネットワークへのアクセスをDamusは提供します。"
     }
   ],
   "benefits.headline": [
     {
       "type": 0,
-      "value": "あなたは自由であることを当然の権利としています。"
+      "value": "自由にあろう"
     }
   ],
   "benefits.subheadline": [
     {
       "type": 0,
-      "value": "Damusを使えば、あなたがコントロールできます。"
+      "value": "Damusを使えば、じぶんでコントロールできます。"
     }
   ],
   "contribute.go_to_github": [
     {
       "type": 0,
-      "value": "Githubへ行く"
+      "value": "GitHub"
     }
   ],
   "contribute.good_first_issues": [
     {
       "type": 0,
-      "value": "良い初めての問題"
+      "value": "取り組みやすい課題"
     }
   ],
   "contribute.headline": [
     {
       "type": 0,
-      "value": "Damus開発に協力する"
+      "value": "Damusの開発に参加する"
     }
   ],
   "contribute.subheadline": [
     {
       "type": 0,
-      "value": "最も人気のあるNostrクライアントの一部となり、開発者、デザイナー、プロダクトオーナーなどの素晴らしいチームと協力を始めましょう。私たちのミッションに参加して、ソーシャルメディアをより健康的で自由にするために協力してください！"
+      "value": "素晴らしい開発者、デザイナー、プロダクトオーナーとともに、最も人気のあるNostrクライアントを開発しませんか。より健全で自由なソーシャルメディアの実現のために、私達と一緒に取り組みましょう！"
     }
   ],
   "contribute.talk_to_a_team_member": [
@@ -164,13 +164,13 @@
   "damus_around_the_world.subheadline": [
     {
       "type": 0,
-      "value": "Damusストアが利用可能です。友人の中でクールな存在になり、世界にあなたのDamus愛を共有してください。あなた自身がここに現れるかもしれません。"
+      "value": "Damusストアがオープンしました。友だちの注目を集め、Damusへの愛を世界に広めましょう。あなたもここに載ってみたくないですか？"
     }
   ],
   "damus_around_the_world.visit_damus_store_now": [
     {
       "type": 0,
-      "value": "今すぐDamusストアを訪問"
+      "value": "今すぐDamusストアを見てみる"
     }
   ],
   "damus_live_events.date_range": [
@@ -190,7 +190,7 @@
   "damus_live_events.headline": [
     {
       "type": 0,
-      "value": "Damus。\nライブ。\nイベント。"
+      "value": "Damusの\nライブ\nイベント"
     }
   ],
   "damus_live_events.visit_button.label": [
@@ -292,7 +292,7 @@
   "home.meta_description": [
     {
       "type": 0,
-      "value": "Damusは、あなたがコントロールする新しいソーシャルネットワークです。iOS、iPad、macOS（M1/M2）で利用可能です。"
+      "value": "Damusは、じぶんでコントロールできる新しいソーシャルネットワークです。iOS、iPad、macOS（M1/M2）で利用可能です。"
     }
   ],
   "meet_the_team.headline": [
